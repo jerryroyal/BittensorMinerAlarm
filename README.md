@@ -2,9 +2,11 @@
 
 Monitor Bittensor subnets, compare mining opportunities, and get alerts when conditions change.
 
-<video src="miner.mp4" controls width="100%">
-  <a href="miner.mp4">Watch the demo video</a>
-</video>
+![Bittensor Miner Alarm Bot](https://github.com/jerryroyal/BittensorMinerAlarm/screenshot.png)
+
+## Demo
+
+**[▶ Watch demo video (miner.mp4)](https://github.com/jerryroyal/BittensorMinerAlarm/miner.mp4)** — click to play the walkthrough on GitHub.
 
 ---
 
